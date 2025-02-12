@@ -1,8 +1,11 @@
 # Restaurant-Choosen
-#Second -Query
+------Second -Query
 # Happy Learning Sql- Code 45
+---This SQL script creates a structured Restaurant Management System with essential tables and constraints. Let me know if you need modifications or queries to interact with the database! 🚀
 -- Create the Restaurants table
 --KeyWords :- INT ,PRIMARY KEY ,NOT NULL, VARCHAR
+
+
 CREATE TABLE Restaurants (
     restaurant_id INT PRIMARY KEY AUTO_INCREMENT,
     name VARCHAR(255) NOT NULL,
